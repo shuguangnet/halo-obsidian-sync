@@ -1,0 +1,10 @@
+{
+  "id": "halo-obsidian-sync",
+  "name": "Halo Obsidian Sync",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "将 Obsidian Markdown 笔记一键同步到 Halo 2.x 博客",
+  "author": "shuguangnet",
+  "authorUrl": "https://github.com/shuguangnet",
+  "isDesktopOnly": false
+}
